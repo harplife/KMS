@@ -6,6 +6,13 @@ manage recipes.
 
 - [x] Web Application up and running (w/ Flask)
 - [] DB Handling (w/ Sqlite)
+  - [x] connect
+  - [x] dummy data
+  - [x] query
+  - [] real data
+  - [] insert API
+  - [] edit API
+  - [] delete API
 - [] Import data from csv
 - [] Export data from csv
 - [] Add Session Manager

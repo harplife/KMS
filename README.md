@@ -15,6 +15,10 @@ manage recipes.
 - [] Screen capture recipe page (w/ Selenium)
 - [] Pyinstaller
 
+## Project Structure
+
+![project_structure](/rms_structure.png)
+
 ## Components of Recipe
 
 - Food Name

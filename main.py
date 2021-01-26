@@ -1,7 +1,5 @@
 '''
-KMS: Knowledge Management System.
-
-Focus will be on recipes.
+RMS: Recipe Management System
 
 DB will be sqlite, for convenience.
 
@@ -11,14 +9,6 @@ The app will be executable, with data files.
 from flask import Flask, render_template
 
 app = Flask(__name__)
-
-# TODO: draw project structure
-# TODO: ADD SQLITE
-# TODO: Add session manager
-# TODO: Login functions
-# TODO: Pyinstaller test
-# TODO: Export data to csv
-# TODO: Import data from csv, or excel
 
 
 @app.route('/')

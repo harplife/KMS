@@ -76,6 +76,7 @@ manage recipes.
 - special euqipment (waffle maker)
 - createdAt
 - editedAt
+- delYN
 - deletedAt
 - attached
 - tags (relation)
@@ -89,6 +90,7 @@ manage recipes.
 - content
 - createdAt
 - editedAt
+- delYN
 - deletedAt
 - attached
 - targetPostIndex
@@ -106,6 +108,7 @@ manage recipes.
 - content
 - createdAt
 - editedAt
+- delYN
 - deletedAt
 - attached
 - createdBy
@@ -113,6 +116,18 @@ manage recipes.
 - deletedBy
 
 ### User Profile
+
+- index
+- name
+- createdAt
+- editedAt
+- delYN
+- deletedAt
+- createdBy
+- editedBy
+- deletedBy
+- userAbout
+- userPhoto
 
 ## Notes
 

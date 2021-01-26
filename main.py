@@ -87,5 +87,13 @@ def populate():
         return 'db populated.'
 
 
+@app.route('/test_query')
+def test_query():
+    results = []
+    for result in query_db('select * from countries'):
+        results.append(result['country_name'])
+    return {'result': results}
+
+
 if __name__ == '__main__':
     app.run(use_reloader=False, port=8003, host='0.0.0.0')

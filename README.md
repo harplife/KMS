@@ -6,9 +6,9 @@ manage recipes.
 
 - [x] Web Application up and running (w/ Flask)
 - [] DB Handling (w/ Sqlite)
-  - [x] connect
-  - [x] dummy data
-  - [x] query
+  - [x] db connect
+  - [x] dummy data initialization
+  - [x] dummy data query
   - [] real data
   - [] insert API
   - [] edit API

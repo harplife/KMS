@@ -137,3 +137,7 @@ manage recipes.
 
 - Consider comment as post
 - Server other than Flask seems unncessary since this would be used for just two of us.
+
+## References
+
+- Sqlite DB operatoins [link](https://flask.palletsprojects.com/en/1.1.x/patterns/sqlite3/)
